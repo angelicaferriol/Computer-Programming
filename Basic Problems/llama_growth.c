@@ -3,7 +3,7 @@
 
 int main (void)
 {
-    //prompting the user for the starting number of llamas
+    //prompting the user for the starting number of llama
     int start;
     do
     {
@@ -11,7 +11,7 @@ int main (void)
     }
     while (start < 9);
 
-    //prompting them for an ending number of llamas
+    //prompting them for an ending number of llama
     int goal;
     do
     {
