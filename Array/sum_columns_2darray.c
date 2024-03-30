@@ -16,7 +16,7 @@ int main()
 		}
 	}
 	
-	//printing the elements in nineElements Array
+	//printing the elements in nineElements array
 	printf("\nElements of nineElements Array:\n");
 	for (int i=0; i<3; i++)
 	{
@@ -36,7 +36,7 @@ int main()
 		}	
 	}
 	
-	//printing the elements in threeElements Array
+	//printing the elements in threeElements array
 	printf("\nElements of threeElements Array: \n");
 	for (int k=0; k<3; k++)
 	{
