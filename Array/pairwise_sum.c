@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Declare arrays
+    // Declare the two arrays
     int originalArray[11];
     int sumArray[10];
 
