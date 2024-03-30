@@ -1,5 +1,3 @@
-// Instruction: Input 10 numbers in an array called setNumber1. In another array called setNumber2 where the elements can be derived from the addition of two consecutive elements of setNumber1. Print the arrays.
-
 #include <stdio.h>
 
 int main()
